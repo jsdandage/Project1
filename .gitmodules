@@ -1,0 +1,3 @@
+[submodule "CommonFeatures"]
+	path = CommonFeatures
+	url = https://github.com/jsdandage/CommonFeatures.git
